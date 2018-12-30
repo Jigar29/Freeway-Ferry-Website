@@ -1,0 +1,19 @@
+.background{
+    position: relative;
+    background-size: cover; 
+}
+
+.button{
+    position: relative; 
+    size: 10%;
+    padding: 1% 1.5%; 
+    margin-left: center; 
+    margin-top: center; 
+    font-size: 100%;
+}
+
+.icons_images{
+    position: relative;
+    height: inherit;
+    width: inherit;
+}
